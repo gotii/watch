@@ -19,13 +19,13 @@ function draw() {
   stroke(168, 34, 230);
   textSize(34);
   strokeWeight(3.3);
-  text("Gou", -90, 200);
+  text("Gou", -90, -200);
   stroke(38, 235, 51);
-  text("rav", -25, 200);
+  text("rav", -25, -200);
   stroke(247, 47, 234);
-  text("soni", 40, 200);
+  text("soni", 40, -200);
   
-//   text(hr - 12 + ":" + mn + ":" + sec , -60, 200);
+  text(hr - 12 + ":" + mn + ":" + sec , -60, 200);
   //ellipse(0, 0, 300, 300);
   
   
